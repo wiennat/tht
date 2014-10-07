@@ -1,0 +1,23 @@
+{
+  "name": "tht",
+  "version": "0.0.0",
+  "description": "Thai stock ticker",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "stock",
+    "ticker",
+    "quote",
+    "thailand",
+    "set",
+    "mai"
+  ],
+  "author": "wnm",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.17.0",
+    "commander": "^2.3.0"
+  }
+}
